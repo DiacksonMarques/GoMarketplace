@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "title": "Happy",
+      "image_url": "https://www.artofbrilliance.co.uk/wp-content/uploads/2019/02/happy-red-600x600.jpg",
+      "price": 50
+    },
+    {
+      "id": "1234",
+      "title": "Colcci",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/1736937/1/1736937138_1GG.jpg",
+      "price": 60
+    },
+    {
+      "id": "12345",
+      "title": "Arqueonautas",
+      "image_url": "https://ph-cdn1.ecosweb.com.br/imagens01/foto/moda-feminina/camisetas-e-baby-look/t-shirt-feminina-rosa_133703_600_5.jpg",
+      "price": 70
+    },
+    {
+      "id": "123456",
+      "title": "Chihuahua LV",
+      "image_url": "https://img.elo7.com.br/product/main/2A24163/t-shirt-feminina-chihuahua-lv.jpg",
+      "price": 80
+    }
+  ]
+}
